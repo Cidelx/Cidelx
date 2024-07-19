@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Cidelx
 - 👀 I’m interested in coding, problem-solving, and cooking.
 - 🌱 I’m currently learning computer science as a student, working towards my bachelor's degree.
-- 💼 I aspire to become a software engineer after graduating from college.
+- 💼 I aspire to become a data engineer after graduating from college.
 - 💞️ I’m looking to collaborate on coding projects and open-source contributions.
 - 📫 You can reach me via email @[cideltetteh@gmail.com]
 
